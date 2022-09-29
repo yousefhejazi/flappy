@@ -1,3 +1,0 @@
-# FlappyBird-JavaScript
-
-flappy bird
